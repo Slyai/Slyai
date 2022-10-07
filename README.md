@@ -1,7 +1,7 @@
 # Slyai 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Slyai/Slyai/blob/master/assets/hello.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Slyai/Slyai/blob/main/assets/hello.gif">
 </div>
 
 </br>
