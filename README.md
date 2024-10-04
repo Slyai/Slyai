@@ -11,7 +11,7 @@
 
 # En savoir plus sur moi 💬 :
 
-### - J'ai 21 ans, je suis administrateurs systèmes et reseaux pour l'entreprise Dekeyne Service EI.
+### - J'ai 21 ans, je suis Technicien Systèmes et Réseaux au CNFPT de lille.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Slyai/Slyai/blob/main/assets/good.gif">
 
@@ -20,8 +20,8 @@
 - ✨ Gestion de Site Web
 
 ### - Mes hobbies : 
-- ✨ Je suis gamer a plein temps
-- ✨ Je suis amateur de film et de série 
+- ✨ J'aime les jeux vidéo
+- ✨ J'adore les film et les série 
 - ✨ Je lis aussi beaucoup de livre
 - ✨ J'aime aussi stream sur twitch de temps en temps
 
