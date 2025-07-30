@@ -11,7 +11,7 @@
 
 # En savoir plus sur moi 💬 :
 
-### - J'ai 21 ans, je suis Technicien Systèmes et Réseaux au CNFPT de lille.
+### - J'ai 22 ans, je suis Technicien Systèmes et Réseaux au CNFPT de lille.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Slyai/Slyai/blob/main/assets/good.gif">
 
@@ -22,8 +22,6 @@
 ### - Mes hobbies : 
 - ✨ J'aime les jeux vidéo
 - ✨ J'adore les film et les série 
-- ✨ Je lis aussi beaucoup de livre
-- ✨ J'aime aussi stream sur twitch de temps en temps
 
 </br>
 </br>
@@ -49,10 +47,6 @@ Vous voulez de l'aide pour un sujet quelconque n'hésitez pas 😉.
 </br>
 </br>
 </br>
-</a>
-<a href="https://steamcommunity.com/id/slyai/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
-</a>
  </p>
  
 
